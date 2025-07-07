@@ -6,3 +6,4 @@
 - new line created in private/release
 - test1
 - test2
+- test4
