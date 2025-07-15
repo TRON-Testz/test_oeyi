@@ -13,5 +13,5 @@
 - new line in TRON-Testz for simultanious commit test
 - test5 2025-07-15T13:59 Commit in Both Repos, when you see this Private won
 - 2025-07-15T12:10 Private -> Public Sync Test
-- test6 2025-07-15T14:11 Commit in Both Repos, when you see this Private won
+- test6 2025-07-15T14:11 Commit in Both Repos, when you see this Public won
 - 2025-07-15T12:12 Public -> Private Sync Test for merge commit
